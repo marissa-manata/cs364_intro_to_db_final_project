@@ -12,6 +12,8 @@ This project was a final project for CS 364 - Introduction to Databases. We were
     - **Group 1:** aggregate functions, `LIKE`, `GROUP BY`, `ORDER BY`, `LIMIT`
     - **Group 2:** `HAVING`, `OFFSET`, outer join, joining four or more tables
     - **Group 3:** subqueries, `IN`, set operators, any additional functionality outside of what was discussed in class will likely fall into this category
+    
+I decided to create my project as a database for management of a dance studio that included information for dancers, groups the dancers were in, routines dancers or groups were part of, the songs the routines were to, the style of dance the routines were, the teachers at the studio, the routines the teachers choreographed, and the styles the teachers taught.
 
 #### Languages Used
 - SQLite
